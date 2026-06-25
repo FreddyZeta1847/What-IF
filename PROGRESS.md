@@ -9,3 +9,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--technologies: sub-feature discussion completed - visualization technology-stack decision
 - DYNAMIC-VISUALS--caching: sub-feature discussion completed - visual-generation cost/caching levers
 - DYNAMIC-VISUALS: threat-model sub-feature discussion completed - threat model
+- AGENT-ENGINE--events: sub-feature discussion completed - output data-model design
