@@ -5,3 +5,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-06-25
 - DYNAMIC-VISUALS--visual-bundle: sub-feature discussion completed - content pipeline design
+- DYNAMIC-VISUALS--globe: sub-feature discussion completed - interactive map/globe composition logic
