@@ -7,3 +7,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--visual-bundle: sub-feature discussion completed - content pipeline design
 - DYNAMIC-VISUALS--globe: sub-feature discussion completed - interactive map/globe composition logic
 - DYNAMIC-VISUALS--technologies: sub-feature discussion completed - visualization technology-stack decision
+- DYNAMIC-VISUALS--caching: sub-feature discussion completed - visual-generation cost/caching levers
