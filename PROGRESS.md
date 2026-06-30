@@ -10,3 +10,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--caching: sub-feature discussion completed - visual-generation cost/caching levers
 - DYNAMIC-VISUALS: threat-model sub-feature discussion completed - threat model
 - AGENT-ENGINE--events: sub-feature discussion completed - output data-model design
+
+## 2026-07-01
+- BACKEND-API: initial transport/coordination design completed (later archived)
