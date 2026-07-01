@@ -13,3 +13,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-01
 - BACKEND-API: initial transport/coordination design completed (later archived)
+
+## 2026-07-02
+- AGENT-ENGINE--technologies: sub-feature discussion completed - engine technology-stack decision
