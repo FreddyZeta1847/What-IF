@@ -17,3 +17,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-07-02
 - AGENT-ENGINE--technologies: sub-feature discussion completed - engine technology-stack decision
 - DYNAMIC-VISUALS: security sub-feature consolidated into a single file - threat model
+- BACKEND-API--technologies: sub-feature discussion completed - backend technology-stack decision
