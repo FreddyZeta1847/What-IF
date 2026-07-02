@@ -21,3 +21,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-03
 - BACKEND-API: hosting/execution model decided
+- BACKEND-API--auth: sub-feature discussion completed - authentication/authorization design
