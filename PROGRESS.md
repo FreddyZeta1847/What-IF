@@ -23,3 +23,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API: hosting/execution model decided
 - BACKEND-API--auth: sub-feature discussion completed - authentication/authorization design
 - BACKEND-API--caching: sub-feature discussion completed - backend caching-layer strategy
+- BACKEND-API--security: sub-feature discussion completed - access-control/auth threat model
