@@ -25,3 +25,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API--caching: sub-feature discussion completed - backend caching-layer strategy
 - BACKEND-API--security: sub-feature discussion completed - access-control/auth threat model
 - BACKEND-API: sub-feature list locked; data ownership boundary clarified
+
+## 2026-07-04
+- BACKEND-API: coordination-layer mechanism designed in depth
