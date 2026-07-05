@@ -28,3 +28,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-04
 - BACKEND-API: coordination-layer mechanism designed in depth
+
+## 2026-07-06
+- ACCOUNTS-TIERS-BILLING--accounts: sub-feature discussion completed - user identity/account record design
