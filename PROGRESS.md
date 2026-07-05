@@ -34,3 +34,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - ACCOUNTS-TIERS-BILLING--quota: sub-feature discussion completed - usage-quota accounting design
 - ACCOUNTS-TIERS-BILLING--moderation: sub-feature discussion completed - content moderation policy/gate design
 - ACCOUNTS-TIERS-BILLING--architecture: sub-feature discussion completed - system placement of the membership feature
+- ACCOUNTS-TIERS-BILLING--technologies: sub-feature discussion completed - accounts/billing vendor-stack decision
