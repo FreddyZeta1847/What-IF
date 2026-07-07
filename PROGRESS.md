@@ -37,3 +37,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - ACCOUNTS-TIERS-BILLING--technologies: sub-feature discussion completed - accounts/billing vendor-stack decision
 - ACCOUNTS-TIERS-BILLING--caching: sub-feature discussion completed - membership-rules caching strategy
 - ACCOUNTS-TIERS-BILLING--security: sub-feature discussion completed - threat model for accounts/billing/entitlements
+
+## 2026-07-07
+- DYNAMIC-VISUALS--resilience: sub-feature discussion completed - failure/degradation handling for visual generation
