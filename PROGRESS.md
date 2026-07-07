@@ -40,3 +40,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-07
 - DYNAMIC-VISUALS--resilience: sub-feature discussion completed - failure/degradation handling for visual generation
+- DYNAMIC-VISUALS: feature fully documented (parent + all sub-features)
