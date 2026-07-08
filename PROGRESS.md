@@ -46,3 +46,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-08
 - Convention: summary pages required to include a dedicated security section
+- BACKEND-API: major architectural pivot - transport & coordination model simplified; prior design archived as reference
