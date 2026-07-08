@@ -43,3 +43,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS: feature fully documented (parent + all sub-features)
 - ACCOUNTS-TIERS-BILLING: feature fully documented (parent)
 - Convention: per-feature visual summary page introduced
+
+## 2026-07-08
+- Convention: summary pages required to include a dedicated security section
