@@ -59,3 +59,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--grapher: sub-feature discussion completed - visual generation design
 - AGENT-ENGINE--caching: sub-feature discussion completed - per-run cost-reduction levers
 - Convention: a mandatory security sub-topic added for every feature, backfilled into already-documented features
+- AGENT-ENGINE--security: sub-feature discussion completed - threat model and injection/trust surfaces
