@@ -57,3 +57,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--architecture: sub-feature discussion completed - content pipeline design
 - AGENT-ENGINE--carry-forward: sub-feature discussion completed - cross-step state continuity design
 - DYNAMIC-VISUALS--grapher: sub-feature discussion completed - visual generation design
+- AGENT-ENGINE--caching: sub-feature discussion completed - per-run cost-reduction levers
