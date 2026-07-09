@@ -53,3 +53,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DYNAMIC-VISUALS--lifecycle: sub-feature discussion completed - playback behavior design
 - ACCOUNTS-TIERS-BILLING--tiers: sub-feature discussion completed - membership-tier/entitlement model
 - BACKEND-API--architecture: sub-feature discussion completed (revised post-pivot) - request-handling and system-boundary design
+- AGENT-ENGINE--era-stepping: sub-feature discussion completed - timeline progression and step-granularity mechanics
