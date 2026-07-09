@@ -55,3 +55,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API--architecture: sub-feature discussion completed (revised post-pivot) - request-handling and system-boundary design
 - AGENT-ENGINE--era-stepping: sub-feature discussion completed - timeline progression and step-granularity mechanics
 - DYNAMIC-VISUALS--architecture: sub-feature discussion completed - content pipeline design
+- AGENT-ENGINE--carry-forward: sub-feature discussion completed - cross-step state continuity design
