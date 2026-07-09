@@ -56,3 +56,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - AGENT-ENGINE--era-stepping: sub-feature discussion completed - timeline progression and step-granularity mechanics
 - DYNAMIC-VISUALS--architecture: sub-feature discussion completed - content pipeline design
 - AGENT-ENGINE--carry-forward: sub-feature discussion completed - cross-step state continuity design
+- DYNAMIC-VISUALS--grapher: sub-feature discussion completed - visual generation design
