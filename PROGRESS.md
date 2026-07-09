@@ -61,3 +61,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Convention: a mandatory security sub-topic added for every feature, backfilled into already-documented features
 - AGENT-ENGINE--security: sub-feature discussion completed - threat model and injection/trust surfaces
 - AGENT-ENGINE: feature fully documented (parent + core sub-features)
+- BACKEND-API--api-surface: sub-feature discussion completed - public API endpoint catalog/contract
