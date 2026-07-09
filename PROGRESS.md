@@ -54,3 +54,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - ACCOUNTS-TIERS-BILLING--tiers: sub-feature discussion completed - membership-tier/entitlement model
 - BACKEND-API--architecture: sub-feature discussion completed (revised post-pivot) - request-handling and system-boundary design
 - AGENT-ENGINE--era-stepping: sub-feature discussion completed - timeline progression and step-granularity mechanics
+- DYNAMIC-VISUALS--architecture: sub-feature discussion completed - content pipeline design
