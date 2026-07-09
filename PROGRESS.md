@@ -51,3 +51,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-07-10
 - AGENT-ENGINE--architecture: sub-feature discussion completed - internal component layering and engine boundary
 - DYNAMIC-VISUALS--lifecycle: sub-feature discussion completed - playback behavior design
+- ACCOUNTS-TIERS-BILLING--tiers: sub-feature discussion completed - membership-tier/entitlement model
