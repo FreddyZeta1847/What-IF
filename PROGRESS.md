@@ -65,3 +65,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 
 ## 2026-07-11
 - BACKEND-API--run-lifecycle: sub-feature discussion completed - per-request execution lifecycle
+- BACKEND-API--streaming: sub-feature discussion completed - response-streaming transport design
