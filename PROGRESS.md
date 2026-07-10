@@ -69,3 +69,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Convention: a mandatory resilience sub-topic added for every feature, backfilled into already-documented features
 - AGENT-ENGINE--communication: sub-feature discussion completed - inter-agent coordination pattern
 - AGENT-ENGINE--engine-run: sub-feature discussion completed - execution contract and run-control ownership
+- AGENT-ENGINE--resilience: sub-feature discussion completed - failure-handling and degradation strategy
