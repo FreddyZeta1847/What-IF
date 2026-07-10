@@ -75,3 +75,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - ACCOUNTS-TIERS-BILLING--resilience: sub-feature discussion completed - failure-handling for billing/quota/key flows
 - BACKEND-API: identity-token contents revised (self-correction)
 - BACKEND-API--resilience: sub-feature discussion completed - failure-handling and recovery mechanics
+- BACKEND-API: crash-recovery timing mechanism corrected after a walkthrough caught a bug
