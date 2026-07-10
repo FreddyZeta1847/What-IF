@@ -67,3 +67,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API--run-lifecycle: sub-feature discussion completed - per-request execution lifecycle
 - BACKEND-API--streaming: sub-feature discussion completed - response-streaming transport design
 - Convention: a mandatory resilience sub-topic added for every feature, backfilled into already-documented features
+- AGENT-ENGINE--communication: sub-feature discussion completed - inter-agent coordination pattern
