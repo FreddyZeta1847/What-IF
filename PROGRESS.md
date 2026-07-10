@@ -71,3 +71,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - AGENT-ENGINE--engine-run: sub-feature discussion completed - execution contract and run-control ownership
 - AGENT-ENGINE--resilience: sub-feature discussion completed - failure-handling and degradation strategy
 - ACCOUNTS-TIERS-BILLING--billing: sub-feature discussion completed - payment-processing integration design
+- ACCOUNTS-TIERS-BILLING--byo-keys: sub-feature discussion completed - user-supplied credential registry design
