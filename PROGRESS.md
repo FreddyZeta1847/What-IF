@@ -62,3 +62,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - AGENT-ENGINE--security: sub-feature discussion completed - threat model and injection/trust surfaces
 - AGENT-ENGINE: feature fully documented (parent + core sub-features)
 - BACKEND-API--api-surface: sub-feature discussion completed - public API endpoint catalog/contract
+
+## 2026-07-11
+- BACKEND-API--run-lifecycle: sub-feature discussion completed - per-request execution lifecycle
