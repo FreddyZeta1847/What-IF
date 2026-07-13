@@ -90,3 +90,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--cost-admin: sub-feature discussion completed - platform cost-monitoring/guardrail design
 - DATA-COST-CACHE--semantic-cache: sub-feature discussion completed - content reuse strategy
 - DATA-COST-CACHE: feature fully documented (parent + all sub-features)
+- Process fix: specialist-agent proposals now require explicit user confirmation before being recorded as decided
