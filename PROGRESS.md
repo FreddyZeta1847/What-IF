@@ -83,3 +83,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE: feature scope + storage topology decided
 - DATA-COST-CACHE--architecture: sub-feature discussion completed - data-storage topology/placement design
 - DATA-COST-CACHE--data-model: sub-feature discussion completed - persistent schema design
+- DATA-COST-CACHE--technologies: sub-feature discussion completed - storage technology-stack decision
