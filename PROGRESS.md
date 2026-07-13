@@ -89,3 +89,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--resilience: sub-feature discussion completed - storage reliability/failure-handling
 - DATA-COST-CACHE--cost-admin: sub-feature discussion completed - platform cost-monitoring/guardrail design
 - DATA-COST-CACHE--semantic-cache: sub-feature discussion completed - content reuse strategy
+- DATA-COST-CACHE: feature fully documented (parent + all sub-features)
