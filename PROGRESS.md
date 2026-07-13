@@ -82,3 +82,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-07-14
 - DATA-COST-CACHE: feature scope + storage topology decided
 - DATA-COST-CACHE--architecture: sub-feature discussion completed - data-storage topology/placement design
+- DATA-COST-CACHE--data-model: sub-feature discussion completed - persistent schema design
