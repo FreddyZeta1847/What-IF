@@ -78,3 +78,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API: crash-recovery timing mechanism corrected after a walkthrough caught a bug
 - Process cleanup: failure-handling documentation de-duplicated across multiple features into one canonical location
 - DATA-COST-CACHE--precompute: sub-feature discussion completed - precomputation strategy
+
+## 2026-07-14
+- DATA-COST-CACHE: feature scope + storage topology decided
