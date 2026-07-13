@@ -85,3 +85,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--data-model: sub-feature discussion completed - persistent schema design
 - DATA-COST-CACHE--technologies: sub-feature discussion completed - storage technology-stack decision
 - DATA-COST-CACHE--caching: sub-feature discussion completed - cross-cutting caching-ladder strategy
+- DATA-COST-CACHE--security: sub-feature discussion completed - storage-layer threat model
