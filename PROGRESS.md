@@ -94,3 +94,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE: a tuning parameter revised after further review
 - DATA-COST-CACHE: core storage-technology decision reconsidered and reversed, following external review
 - DATA-COST-CACHE: architecture, data-model and technology docs rewritten to match the reversed storage decision
+- DATA-COST-CACHE: a caching-technology re-evaluation and a rejected reliability proposal recorded from external review
