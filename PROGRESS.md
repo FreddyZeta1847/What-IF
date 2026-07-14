@@ -93,3 +93,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Process fix: specialist-agent proposals now require explicit user confirmation before being recorded as decided
 - DATA-COST-CACHE: a tuning parameter revised after further review
 - DATA-COST-CACHE: core storage-technology decision reconsidered and reversed, following external review
+- DATA-COST-CACHE: architecture, data-model and technology docs rewritten to match the reversed storage decision
