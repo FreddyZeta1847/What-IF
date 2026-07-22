@@ -128,6 +128,7 @@
 │   │   │   ├── dynamic-visuals--visual-bundle.md
 │   │   │   └── DYNAMIC-VISUALS.md
 │   │   └── FRONTEND/
+│   │       ├── FRONTEND--architecture.md
 │   │       └── FRONTEND.md
 │   ├── _architecture.md
 │   ├── _features.md

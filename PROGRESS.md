@@ -99,3 +99,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-07-23
 - FRONTEND: initial feature discussion completed - client application architecture and page structure
 - FRONTEND: lean parent feature file written; sub-feature list drafted
+- FRONTEND--architecture: sub-feature discussion completed - internal application structure and integration seams
