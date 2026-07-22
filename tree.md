@@ -1,4 +1,4 @@
-.
+﻿.
 ├── .impeccable/
 │   └── hook.cache.json
 ├── graphify-out/
@@ -115,18 +115,20 @@
 │   │   │   ├── DATA-COST-CACHE--semantic-cache.md
 │   │   │   ├── DATA-COST-CACHE--technologies.md
 │   │   │   └── DATA-COST-CACHE.md
-│   │   └── DYNAMIC-VISUALS/
-│   │       ├── dynamic-visuals--architecture.md
-│   │       ├── dynamic-visuals--caching.md
-│   │       ├── dynamic-visuals--globe.md
-│   │       ├── dynamic-visuals--grapher.md
-│   │       ├── dynamic-visuals--lifecycle.md
-│   │       ├── dynamic-visuals--recap.html
-│   │       ├── dynamic-visuals--resilience.md
-│   │       ├── dynamic-visuals--security.md
-│   │       ├── dynamic-visuals--technologies.md
-│   │       ├── dynamic-visuals--visual-bundle.md
-│   │       └── DYNAMIC-VISUALS.md
+│   │   ├── DYNAMIC-VISUALS/
+│   │   │   ├── dynamic-visuals--architecture.md
+│   │   │   ├── dynamic-visuals--caching.md
+│   │   │   ├── dynamic-visuals--globe.md
+│   │   │   ├── dynamic-visuals--grapher.md
+│   │   │   ├── dynamic-visuals--lifecycle.md
+│   │   │   ├── dynamic-visuals--recap.html
+│   │   │   ├── dynamic-visuals--resilience.md
+│   │   │   ├── dynamic-visuals--security.md
+│   │   │   ├── dynamic-visuals--technologies.md
+│   │   │   ├── dynamic-visuals--visual-bundle.md
+│   │   │   └── DYNAMIC-VISUALS.md
+│   │   └── FRONTEND/
+│   │       └── FRONTEND.md
 │   ├── _architecture.md
 │   ├── _features.md
 │   └── _index.md
@@ -134,5 +136,4 @@
 ├── .graphifyignore
 ├── PROGRESS.md
 ├── README.md
-├── tree.md
-└── tree.md.tmp
+└── tree.md
