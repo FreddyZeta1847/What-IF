@@ -101,3 +101,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - FRONTEND: lean parent feature file written; sub-feature list drafted
 - FRONTEND--architecture: sub-feature discussion completed - internal application structure and integration seams
 - Process cleanup: FRONTEND--architecture re-scoped to structural-only content, mechanism/tech detail deferred to their own sub-features
+- FRONTEND--technologies: sub-feature discussion completed - client application technology-stack decision
