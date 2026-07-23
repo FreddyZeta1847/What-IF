@@ -129,6 +129,7 @@
 │   │   │   └── DYNAMIC-VISUALS.md
 │   │   └── FRONTEND/
 │   │       ├── FRONTEND--architecture.md
+│   │       ├── FRONTEND--state-data.md
 │   │       ├── FRONTEND--technologies.md
 │   │       └── FRONTEND.md
 │   ├── _architecture.md
