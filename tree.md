@@ -133,6 +133,7 @@
 │   │   └── FRONTEND/
 │   │       ├── FRONTEND--architecture.md
 │   │       ├── FRONTEND--auth-communication.md
+│   │       ├── FRONTEND--pages.md
 │   │       ├── FRONTEND--state-data.md
 │   │       ├── FRONTEND--technologies.md
 │   │       └── FRONTEND.md
