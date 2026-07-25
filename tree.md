@@ -62,6 +62,9 @@
 │   │   ├── core-plugins.json
 │   │   ├── graph.json
 │   │   └── workspace.json
+│   ├── Contracts/
+│   │   ├── dismissed.md
+│   │   └── registry.md
 │   ├── features/
 │   │   ├── ACCOUNTS-TIERS-BILLING/
 │   │   │   ├── ACCOUNTS-TIERS-BILLING--accounts.md

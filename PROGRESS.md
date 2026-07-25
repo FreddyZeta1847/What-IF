@@ -103,3 +103,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Process cleanup: FRONTEND--architecture re-scoped to structural-only content, mechanism/tech detail deferred to their own sub-features
 - FRONTEND--technologies: sub-feature discussion completed - client application technology-stack decision
 - FRONTEND--state-data: sub-feature discussion completed - client state-management and data-fetching design
+
+## 2026-07-26
+- Process addition: shared cross-feature value registry (Contracts/) scaffold created
