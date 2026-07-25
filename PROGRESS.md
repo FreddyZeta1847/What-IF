@@ -109,3 +109,5 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Process: bootstrap cross-feature consistency review run across existing documented features, findings recorded for later resolution
 - FRONTEND--auth-communication: sub-feature discussion completed - authentication flow and backend-communication design
 - FRONTEND--pages: sub-feature discussion completed - page inventory and navigation/access design
+- FRONTEND--playback-interaction: sub-feature discussion completed - event-card interaction and pacing design
+- DYNAMIC-VISUALS--lifecycle: playback pacing rule clarified (cross-feature amendment)
