@@ -111,3 +111,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - FRONTEND--pages: sub-feature discussion completed - page inventory and navigation/access design
 - FRONTEND--playback-interaction: sub-feature discussion completed - event-card interaction and pacing design
 - DYNAMIC-VISUALS--lifecycle: playback pacing rule clarified (cross-feature amendment)
+- FRONTEND--responsive: sub-feature discussion completed - mobile/tablet/desktop layout strategy (all component sub-features now done)

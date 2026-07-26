@@ -135,6 +135,7 @@
 │   │       ├── FRONTEND--auth-communication.md
 │   │       ├── FRONTEND--pages.md
 │   │       ├── FRONTEND--playback-interaction.md
+│   │       ├── FRONTEND--responsive.md
 │   │       ├── FRONTEND--state-data.md
 │   │       ├── FRONTEND--technologies.md
 │   │       └── FRONTEND.md
