@@ -1,4 +1,4 @@
-﻿.
+.
 ├── .impeccable/
 │   └── hook.cache.json
 ├── graphify-out/
@@ -12,6 +12,7 @@
 │   │   │   ├── 5a98484ad201dbfef475216cfc5648a97600b2adfeb17ad866f52a242d4d1b61.json
 │   │   │   ├── babdf086889d4300b059b43fe5bc36df83f03defe614d97a99f09eea22063fdc.json
 │   │   │   └── f9dfabcde5811f451cee487de718ebfc93fe10d32e055c8ff88111796cc98690.json
+│   │   ├── last_query_stamp
 │   │   └── stat-index.json
 │   ├── .graphify_labels.json
 │   ├── .graphify_python
@@ -133,6 +134,7 @@
 │   │   └── FRONTEND/
 │   │       ├── FRONTEND--architecture.md
 │   │       ├── FRONTEND--auth-communication.md
+│   │       ├── FRONTEND--caching.md
 │   │       ├── FRONTEND--pages.md
 │   │       ├── FRONTEND--playback-interaction.md
 │   │       ├── FRONTEND--responsive.md
