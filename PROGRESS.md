@@ -112,3 +112,10 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - FRONTEND--playback-interaction: sub-feature discussion completed - event-card interaction and pacing design
 - DYNAMIC-VISUALS--lifecycle: playback pacing rule clarified (cross-feature amendment)
 - FRONTEND--responsive: sub-feature discussion completed - mobile/tablet/desktop layout strategy (all component sub-features now done)
+
+## 2026-08-12
+- FRONTEND--caching: in-progress data-refresh/recovery mechanism decision locked (small cross-amendment to FRONTEND--state-data)
+
+## 2026-08-18
+- FRONTEND--caching: sub-feature discussion completed - client-side data caching/refresh strategy
+- FRONTEND--state-data: streaming-progress storage mechanism amended (cross-feature amendment)
