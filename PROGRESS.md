@@ -119,3 +119,5 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-08-18
 - FRONTEND--caching: sub-feature discussion completed - client-side data caching/refresh strategy
 - FRONTEND--state-data: streaming-progress storage mechanism amended (cross-feature amendment)
+- FRONTEND--security: in-progress - AI-generated content rendering safety decision locked
+- DATA-COST-CACHE--data-model: storage-placement rationale for one content type revisited and re-confirmed (cross-feature question)
