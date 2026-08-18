@@ -121,3 +121,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - FRONTEND--state-data: streaming-progress storage mechanism amended (cross-feature amendment)
 - FRONTEND--security: in-progress - AI-generated content rendering safety decision locked
 - DATA-COST-CACHE--data-model: storage-placement rationale for one content type revisited and re-confirmed (cross-feature question)
+- FRONTEND--security: in-progress - client-side data exposure review completed, API response and build-config hardening decisions locked
