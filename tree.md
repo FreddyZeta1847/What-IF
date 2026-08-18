@@ -138,6 +138,7 @@
 │   │       ├── FRONTEND--pages.md
 │   │       ├── FRONTEND--playback-interaction.md
 │   │       ├── FRONTEND--responsive.md
+│   │       ├── FRONTEND--security.md
 │   │       ├── FRONTEND--state-data.md
 │   │       ├── FRONTEND--technologies.md
 │   │       └── FRONTEND.md
