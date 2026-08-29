@@ -123,3 +123,6 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--data-model: storage-placement rationale for one content type revisited and re-confirmed (cross-feature question)
 - FRONTEND--security: in-progress - client-side data exposure review completed, API response and build-config hardening decisions locked
 - FRONTEND--security: sub-feature discussion completed - client threat model, AI-content rendering, and dependency-hardening strategy (all 5 default sub-features now done, only --resilience remains for FRONTEND)
+
+## 2026-08-29
+- FRONTEND--playback-interaction: playback pacing model revisited and reversed (cross-feature amendment, DYNAMIC-VISUALS--lifecycle)
