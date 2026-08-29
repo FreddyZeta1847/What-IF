@@ -127,3 +127,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-08-29
 - FRONTEND--playback-interaction: playback pacing model revisited and reversed (cross-feature amendment, DYNAMIC-VISUALS--lifecycle)
 - Process addition: full-pipeline reference diagram created (master system map + one sheet per major piece, with a numbered failure-mode legend)
+- FRONTEND--resilience: sub-feature discussion completed - client failure-handling and degradation strategy (FRONTEND now fully documented, 10/10 sub-features)
