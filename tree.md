@@ -124,7 +124,7 @@
 │   │   │   ├── dynamic-visuals--caching.md
 │   │   │   ├── dynamic-visuals--globe.md
 │   │   │   ├── dynamic-visuals--grapher.md
-│   │   │   ├── dynamic-visuals--lifecycle.md
+│   │   │   ├── DYNAMIC-VISUALS--lifecycle.md
 │   │   │   ├── dynamic-visuals--recap.html
 │   │   │   ├── dynamic-visuals--resilience.md
 │   │   │   ├── dynamic-visuals--security.md
@@ -137,6 +137,7 @@
 │   │       ├── FRONTEND--caching.md
 │   │       ├── FRONTEND--pages.md
 │   │       ├── FRONTEND--playback-interaction.md
+│   │       ├── FRONTEND--resilience.md
 │   │       ├── FRONTEND--responsive.md
 │   │       ├── FRONTEND--security.md
 │   │       ├── FRONTEND--state-data.md
