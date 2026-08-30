@@ -131,18 +131,22 @@
 │   │   │   ├── dynamic-visuals--technologies.md
 │   │   │   ├── dynamic-visuals--visual-bundle.md
 │   │   │   └── DYNAMIC-VISUALS.md
-│   │   └── FRONTEND/
-│   │       ├── FRONTEND--architecture.md
-│   │       ├── FRONTEND--auth-communication.md
-│   │       ├── FRONTEND--caching.md
-│   │       ├── FRONTEND--pages.md
-│   │       ├── FRONTEND--playback-interaction.md
-│   │       ├── FRONTEND--resilience.md
-│   │       ├── FRONTEND--responsive.md
-│   │       ├── FRONTEND--security.md
-│   │       ├── FRONTEND--state-data.md
-│   │       ├── FRONTEND--technologies.md
-│   │       └── FRONTEND.md
+│   │   ├── FRONTEND/
+│   │   │   ├── FRONTEND--architecture.md
+│   │   │   ├── FRONTEND--auth-communication.md
+│   │   │   ├── FRONTEND--caching.md
+│   │   │   ├── FRONTEND--pages.md
+│   │   │   ├── FRONTEND--playback-interaction.md
+│   │   │   ├── FRONTEND--resilience.md
+│   │   │   ├── FRONTEND--responsive.md
+│   │   │   ├── FRONTEND--security.md
+│   │   │   ├── FRONTEND--state-data.md
+│   │   │   ├── FRONTEND--technologies.md
+│   │   │   └── FRONTEND.md
+│   │   └── SOCIAL-SHARING/
+│   │       ├── SOCIAL-SHARING--discovery.md
+│   │       ├── SOCIAL-SHARING--social-graph.md
+│   │       └── SOCIAL-SHARING.md
 │   ├── _architecture.md
 │   ├── _features.md
 │   └── _index.md
