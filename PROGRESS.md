@@ -133,3 +133,5 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - Process addition: pipeline reference diagram refined - rendering accuracy fixes and new resilience content
 - Process addition: two new features added to project scope - outbound notifications, visual/motion design
 - SOCIAL-SHARING: initial feature discussion completed - social graph and discovery design (2 of 7 sub-features written)
+- SOCIAL-SHARING--resilience: sub-feature discussion completed - operational failure-handling strategy
+- SOCIAL-SHARING--security: sub-feature discussion completed - threat-model and abuse-vector review (with amendments to --social-graph and --discovery)
