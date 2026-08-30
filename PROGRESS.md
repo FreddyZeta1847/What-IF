@@ -136,3 +136,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - SOCIAL-SHARING--resilience: sub-feature discussion completed - operational failure-handling strategy
 - SOCIAL-SHARING--security: sub-feature discussion completed - threat-model and abuse-vector review (with amendments to --social-graph and --discovery)
 - SOCIAL-SHARING: feature fully documented - architecture, technology stack, and caching strategy locked (7/7 sub-features)
+- Process addition: pipeline reference diagram extended with the new feature; visual HTML recap built for the new feature
