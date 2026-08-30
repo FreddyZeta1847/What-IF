@@ -147,6 +147,7 @@
 │   │       ├── SOCIAL-SHARING--architecture.md
 │   │       ├── SOCIAL-SHARING--caching.md
 │   │       ├── SOCIAL-SHARING--discovery.md
+│   │       ├── social-sharing--recap.html
 │   │       ├── SOCIAL-SHARING--resilience.md
 │   │       ├── SOCIAL-SHARING--security.md
 │   │       ├── SOCIAL-SHARING--social-graph.md
