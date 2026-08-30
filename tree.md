@@ -144,8 +144,13 @@
 │   │   │   ├── FRONTEND--technologies.md
 │   │   │   └── FRONTEND.md
 │   │   └── SOCIAL-SHARING/
+│   │       ├── SOCIAL-SHARING--architecture.md
+│   │       ├── SOCIAL-SHARING--caching.md
 │   │       ├── SOCIAL-SHARING--discovery.md
+│   │       ├── SOCIAL-SHARING--resilience.md
+│   │       ├── SOCIAL-SHARING--security.md
 │   │       ├── SOCIAL-SHARING--social-graph.md
+│   │       ├── SOCIAL-SHARING--technologies.md
 │   │       └── SOCIAL-SHARING.md
 │   ├── _architecture.md
 │   ├── _features.md
