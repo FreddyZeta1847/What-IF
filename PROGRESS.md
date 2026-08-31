@@ -142,3 +142,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--data-model: persistence schema amended following an independent verification pass; entity-relationship map added (cross-feature amendments to SOCIAL-SHARING, FRONTEND, BACKEND-API)
 - BACKEND-API--api-surface: a pre-existing status-model gap identified and flagged for a future pass
 - BACKEND-API--auth, FRONTEND--auth-communication, FRONTEND--pages: an additional sign-in mechanism adopted and its client-side flow locked (additive amendments; one open item flagged)
+- DATA-COST-CACHE--data-model: two parts of the same-day schema amendment revised after further discussion - one reverted, one restructured and renamed (ripples to BACKEND-API, DATA-COST-CACHE--architecture)
