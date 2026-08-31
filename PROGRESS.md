@@ -145,3 +145,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--data-model: two parts of the same-day schema amendment revised after further discussion - one reverted, one restructured and renamed (ripples to BACKEND-API, DATA-COST-CACHE--architecture)
 - Process: two feature recaps refreshed to match the revised data model and the cross-feature ripples
 - DATA-COST-CACHE--architecture: an explicit cross-cutting storage-placement rule adopted, replacing an implicit convention
+- DATA-COST-CACHE--data-model: persistence layer restructured - semi-structured fields decomposed into relational tables; one field relocated between stores (ripples to ACCOUNTS-TIERS-BILLING, AGENT-ENGINE, BACKEND-API)
