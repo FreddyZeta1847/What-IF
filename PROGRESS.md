@@ -148,3 +148,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - DATA-COST-CACHE--data-model: persistence layer restructured - semi-structured fields decomposed into relational tables; one field relocated between stores (ripples to ACCOUNTS-TIERS-BILLING, AGENT-ENGINE, BACKEND-API)
 - AGENT-ENGINE--events, AGENT-ENGINE--security: model-output constraint for a generated field defined; a previously unpersisted generated artifact given a home
 - BACKEND-API--run-lifecycle: a lifecycle simplification considered and parked for a future version
+- Process: feature recap and pipeline reference diagram both rebuilt for the restructured persistence layer
