@@ -141,3 +141,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 ## 2026-08-31
 - DATA-COST-CACHE--data-model: persistence schema amended following an independent verification pass; entity-relationship map added (cross-feature amendments to SOCIAL-SHARING, FRONTEND, BACKEND-API)
 - BACKEND-API--api-surface: a pre-existing status-model gap identified and flagged for a future pass
+- BACKEND-API--auth, FRONTEND--auth-communication, FRONTEND--pages: an additional sign-in mechanism adopted and its client-side flow locked (additive amendments; one open item flagged)
