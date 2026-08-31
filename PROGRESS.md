@@ -144,3 +144,4 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - BACKEND-API--auth, FRONTEND--auth-communication, FRONTEND--pages: an additional sign-in mechanism adopted and its client-side flow locked (additive amendments; one open item flagged)
 - DATA-COST-CACHE--data-model: two parts of the same-day schema amendment revised after further discussion - one reverted, one restructured and renamed (ripples to BACKEND-API, DATA-COST-CACHE--architecture)
 - Process: two feature recaps refreshed to match the revised data model and the cross-feature ripples
+- DATA-COST-CACHE--architecture: an explicit cross-cutting storage-placement rule adopted, replacing an implicit convention
