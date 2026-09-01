@@ -149,3 +149,7 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - AGENT-ENGINE--events, AGENT-ENGINE--security: model-output constraint for a generated field defined; a previously unpersisted generated artifact given a home
 - BACKEND-API--run-lifecycle: a lifecycle simplification considered and parked for a future version
 - Process: feature recap and pipeline reference diagram both rebuilt for the restructured persistence layer
+- Process: first full cross-feature consistency review run; a substantial set of contradictions found and triage begun
+- FRONTEND--caching: stream-recovery mechanism simplified, a redundant mechanism removed entirely
+- BACKEND-API--caching, SOCIAL-SHARING: shared-cache eligibility corrected to respect the profile-level access gate
+- BACKEND-API: an alternative transport approach reconsidered and parked; the unattended-generation question deferred with it
