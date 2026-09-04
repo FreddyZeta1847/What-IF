@@ -153,3 +153,8 @@ Sanitized, public-safe record of when design and architecture work happened on t
 - FRONTEND--caching: stream-recovery mechanism simplified, a redundant mechanism removed entirely
 - BACKEND-API--caching, SOCIAL-SHARING: shared-cache eligibility corrected to respect the profile-level access gate
 - BACKEND-API: an alternative transport approach reconsidered and parked; the unattended-generation question deferred with it
+
+## 2026-09-04
+- FRONTEND--caching, FRONTEND--state-data: client-side refresh/recovery mechanism revised and the resolution written into the vault (cross-feature amendments to FRONTEND--resilience, _index)
+- FRONTEND--caching: cold-start request-ordering decision locked
+- FRONTEND: a client-side state-persistence gap identified during the above; flagged for an explicit security review, not yet decided
